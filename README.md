@@ -10,7 +10,7 @@ https://github.com/jerabaul29/Cylinder2DFlowControlDRL
 
 2. Copy the file "Env2DCylinder.py" and directory "our_RL" into "Cylinder2DFlowControlWithRL".  
 
-3. Run  DAC.py  
+3. Run  DAC.py.  
 > cd Cylinder2DFlowControlWithRL/our_RL  
 > python make_mesh.py  
 > python DAC.py  
